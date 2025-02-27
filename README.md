@@ -71,10 +71,17 @@ Gantt charts graphically depict project tasks along with their durations, depend
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 
+I do not have any software now, but in the future, I hope to develop a software that will improve efficiency, automating repetitive tasks, and enhancing user experience. 
+It will beneficial because it will reduce manual errors, save time, and increase productivity, ultimately leading to better outcomes and competitive advantages in their respective fields.
 
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+A precise problem definition guarantees that the software solution is pertinent and focused, meeting the unique requirements and problems of the consumers. It aids in establishing precise goals and success standards, directing the development process toward a targeted and effective solution. Better stakeholder communication, less scope creep, and a higher chance of producing a product that satisfies user expectations and accomplishes organizational objectives are all made possible by this clarity.
+
+
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+
+
 ## 11. What are the main features or functionalities that make your software stand out?
 ## 12. What data is available regarding the market size and growth potential for your software?
 ## 13. How can understanding market trends inform your software’s positioning and development?
